@@ -29,11 +29,11 @@ public class SpringBootUpdateApplication {
             }
         };
     }
-    @Bean
+    /*@Bean
     public FamliyMan famliyMan(){
         FamliyMan famliyMan=new FamliyMan();
         famliyMan.setName("beobsik");
         return famliyMan;
-    }
+    }*/
 
 }
